@@ -1,4 +1,7 @@
-# Probabilistic ratio cut
+# Probabilistic Ratio Cut (PRCut) Implementation 
+
+PyTorch implementation
+
 
 ## Environment setup
 
